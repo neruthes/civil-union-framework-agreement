@@ -33,3 +33,4 @@ jobs:
           git config user.name 'Neruthes @ GitHub Actions'
           git config user.email 'noreply@neruthes.xyz'
           git commit -am 'Autobuild: dist-latest.md'
+          git push origin master
